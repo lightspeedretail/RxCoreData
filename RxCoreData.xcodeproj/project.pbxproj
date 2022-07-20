@@ -242,9 +242,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5A017DD81D7D6F560027384A /* Build configuration list for PBXNativeTarget "RxCoreData iOS" */;
 			buildPhases = (
+				5A017DCD1D7D6F550027384A /* Headers */,
 				5A017DCB1D7D6F550027384A /* Sources */,
 				5A017DCC1D7D6F550027384A /* Frameworks */,
-				5A017DCD1D7D6F550027384A /* Headers */,
 				5A017DCE1D7D6F550027384A /* Resources */,
 			);
 			buildRules = (
@@ -260,9 +260,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F400B2CE2040BED6003F5030 /* Build configuration list for PBXNativeTarget "RxCoreData macOS" */;
 			buildPhases = (
+				F400B2CB2040BED6003F5030 /* Headers */,
 				F400B2C52040BED6003F5030 /* Sources */,
 				F400B2CA2040BED6003F5030 /* Frameworks */,
-				F400B2CB2040BED6003F5030 /* Headers */,
 				F400B2CD2040BED6003F5030 /* Resources */,
 			);
 			buildRules = (
@@ -278,9 +278,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F400B2DD2040BEEA003F5030 /* Build configuration list for PBXNativeTarget "RxCoreData tvOS" */;
 			buildPhases = (
+				F400B2DA2040BEEA003F5030 /* Headers */,
 				F400B2D42040BEEA003F5030 /* Sources */,
 				F400B2D92040BEEA003F5030 /* Frameworks */,
-				F400B2DA2040BEEA003F5030 /* Headers */,
 				F400B2DC2040BEEA003F5030 /* Resources */,
 			);
 			buildRules = (
@@ -296,9 +296,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F400B2EC2040BEF4003F5030 /* Build configuration list for PBXNativeTarget "RxCoreData watchOS" */;
 			buildPhases = (
+				F400B2E92040BEF4003F5030 /* Headers */,
 				F400B2E32040BEF4003F5030 /* Sources */,
 				F400B2E82040BEF4003F5030 /* Frameworks */,
-				F400B2E92040BEF4003F5030 /* Headers */,
 				F400B2EB2040BEF4003F5030 /* Resources */,
 			);
 			buildRules = (
